@@ -1,0 +1,27 @@
+	https://842744775.github.io/maidiansha/maidiansha.html       
+	https://842744775.github.io/maidiansha/dengluye.html        
+	https://842744775.github.io/maidiansha/fenleiye.html              
+	https://842744775.github.io/maidiansha/gerenzhongxin.html	
+	https://842744775.github.io/maidiansha/gouwuche.html                 
+https://842744775.github.io/maidiansha/shangpinxiangqing.html
+	https://842744775.github.io/maidiansha/shezhi.html                   
+https://842744775.github.io/maidiansha/shoucang.html
+https://842744775.github.io/maidiansha/shouhuodizhiliebiao.html
+	https://842744775.github.io/maidiansha/sousuoliebiao.html                  
+	https://842744775.github.io/maidiansha/wodedingdan.html			
+连接特定的 DNS 后缀: 
+描述: Qualcomm Atheros AR8161/8165 PCI-E Gigabit Ethernet Controller (NDIS 6.20)
+物理地址: ?B8-88-E3-95-8F-4A
+已启用 DHCP: 是
+IPv4 地址: 192.168.13.131
+IPv4 子网掩码: 255.255.224.0
+获得租约的时间: 2017年9月15日 15:28:49
+租约过期的时间: 2017年9月15日 17:34:08
+IPv4 默认网关: 192.168.0.254
+IPv4 DHCP 服务器: 192.168.0.254
+IPv4 DNS 服务器: 202.99.216.113, 192.168.0.254, 8.8.8.8
+IPv4 WINS 服务器: 
+已启用 NetBIOS over Tcpip: 是
+连接-本地 IPv6 地址: fe80::9157:42a2:6f08:5236%11
+IPv6 默认网关: 
+IPv6 DNS 服务器: 
