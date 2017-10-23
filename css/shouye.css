@@ -1,0 +1,300 @@
+/*
+* @Author: Administrator
+* @Date:   2017-09-15 08:38:21
+* @Last Modified by:   lenovo
+* @Last Modified time: 2017-09-24 23:57:59
+*/
+
+#tubudh{
+	width: 100%;
+	height: 80px;
+	background-color: #fff;
+	position: relative;
+}
+.logohwz{
+	width: 1000px;
+	height: 100%;
+	background-color: #fff;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.logo{
+	width: 150px;
+	height: 50px;
+	background-color: #fff;
+	margin-top: 16px;
+	float: left;
+	background-image: url('../img/i.png');
+}
+.wenzi{
+	width: 765px;
+	height: 50px;
+	background-color: #fff;
+	float: right;
+	margin-top: 30px;
+}
+.wenzi1{
+	width: 100%;
+	height: 22px;
+	background-color: #fff;
+}
+.wenzi1kj{
+	width: 75px;
+	height: 100%;
+	background-color: #fff;
+	float: left;
+	margin-left: 30px;
+	text-align: center;
+	line-height: 22px;
+}
+.wenzi1kj a{
+	color: black;
+}
+.wenzi1kj a:hover{
+	color: yellowgreen;
+}
+.wenzi1kj1 a{
+	color: yellowgreen;
+}
+.wenzi2{
+	width: 75px;
+	height: 5px;
+	background-color: yellowgreen;
+	margin-top: 23px;
+	margin-left: 30px;
+}
+
+
+#dtkj{
+	width: 100%;
+	height: 500px;
+	background-color: rgb(34, 67, 164);
+	position: relative;
+}
+.dtkj-img{
+	width: 100%;
+	height: 100%;
+	background-image: url('../dt.jpg');
+	text-align: center;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.lpdkj{
+	width: 700px;
+	height: 21px;
+	/* background-color: yellowgreen; */
+	/* margin: 0 auto;
+	margin-top: 450px; */
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.lpd{
+	width: 80px;
+	height: 6px;
+	background-color: #fff;
+	margin-right: 32px;
+	margin-bottom: 12px;
+	float: left;
+}
+.lpd1{
+	background-color: orangered;
+}
+
+
+#zjdkj{
+	width: 100%;
+	height: 420px;
+	background-color: #f0f0f0;
+}
+.xmkks{
+	width: 960px;
+	height: 420px;
+	background-color: #f0f0f0;
+	margin: 0 auto;
+	position: relative;
+}
+.xmkks1{
+	width: 100%;
+	height: 270px;
+	background-color: #f0f0f0;
+	position: absolute;
+	top: 50px;
+	margin: auto;
+}
+.xmkks1z{
+	width: 360px;
+	height: 100%;
+	background-color: #f0f0f0;
+	border-right: 1px #b0b0b0 solid;
+	float: left;
+}
+.xmkks1z a{
+	color: black;
+}
+.oldt{
+	width: 359px;
+	height: 24px;
+	background-color: #f0f0f0;
+	margin-bottom: 20px;
+}
+.xkk{
+	width: 7px;
+	height: 21px;
+	background-color: orangered;
+	float: left;
+}
+.oldt h1{
+	font-size: 21px;
+	margin-left: 15px;
+	float: left;
+	margin-top: -3px;
+}
+.oldtwz{
+	width: 359px;
+	height: 25px;
+	background-color: #f0f0f0;
+}
+.oldtwz h1{
+	font-size: 16px;
+	float: left;
+	margin-right: 23px;
+}
+.oldtwz h2{
+	font-size: 16px;
+	float: left;
+}
+.gdkj{
+	width: 66px;
+	height: 27px;
+	background-color: #b0b0b0;
+	text-align: center;
+	line-height: 27px;
+	margin-top: 10px;
+}
+.gdkj a{
+	font-size: 16px;
+	color: black;
+}
+
+
+
+.xmkks1y{
+	width: 600px;
+	height: 100%;
+	background-color: #f0f0f0;
+	float: right;
+}
+.xmkkss{
+	width: 550px;
+	height: 131px;
+	background-color: #f0f0f0;
+	float: right;
+	border-bottom: 1px #b0b0b0 solid;
+}
+
+
+.smwzkj{
+	width: 100%;
+	height: 24px;
+	background-color: #f0f0f0;
+}
+.xjkk{
+	width: 7px;
+	height: 100%;
+	background-color: orangered;
+	float: left;
+}
+.smwzkj h1{
+	font-size: 21px;
+	float: left;
+	margin-top: -3px;
+	margin-left: 15px;
+}
+.xmtpkj{
+	width: 100%;
+	height: 60px;
+	background-color: #f0f0f0;
+	margin-top: 46px;
+}
+.tpkj{
+	width: 25%;
+	height: 60px;
+	background-color: #f0f0f0;
+	float: left;
+}
+
+.xmkksx{
+	width: 550px;
+	height: 130px;
+	background-color: #f0f0f0;
+	float: right;
+	margin-top: 30px;
+}
+
+
+
+#zxmkj{
+	width: 100%;
+	height: 155px;
+	background-color: #d4d6d7;
+	position: relative;
+}
+.zxmwzs{
+	width: 960px;
+	height: 24px;
+	background-color: #d4d6d7;
+	position: absolute;
+	top: 20px;
+	left: 0;
+	right: 0;
+	margin: auto;
+	line-height: 24px;
+	text-align: center;
+}
+
+.zxmwzs a{
+	font-size: 15px;
+	color: black;
+	margin-left: 3px;
+	color: #888888;
+}
+.zxmwzx{
+	width: 550px;
+	height: 36px;
+	background-color: #d4d6d7;
+	position: absolute;
+	top: 70px;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.gntp{
+	width: 28px;
+	height: 100%;
+	background-color: #d4d6d7;
+	background-image: url('../img/gn.png');
+	float: left;
+}
+.zxmwzkj{
+	width: 522px;
+	height: 100%;
+	background-color: #d4d6d7;
+	float: left;
+}
+.zxmwzx h1{
+	font-size: 12px;
+	color: #b0b0b0;
+	margin-left: 15px;
+}
+.zxmwzx h2{
+	font-size: 12px;
+	color: #b0b0b0;
+	margin-left: 15px;
+}

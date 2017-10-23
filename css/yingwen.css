@@ -1,0 +1,206 @@
+/*头部开始*/
+
+#banner{
+    width: 1903px;
+    height: 625px;
+    background-color: #00afb3;
+    position: relative;
+}
+.dtp{
+    width: 1300px;
+    height: 625px;
+    position: absolute;
+    top: 0;
+    left: 210px;
+    background-image: url("../img/pic.png");
+}
+.zsmkj{
+    /*width: 1903px;*/
+    height: 80px;
+    /*background-color: #ffffff;*/
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.logohwz{
+    width: 1000px;
+    height: 80px;
+    /*background-color: #fff;*/
+    position: absolute;
+    top: 0;
+    left: 120px;
+}
+.xtb{
+    width: 150px;
+    height: 60px;
+    /*background-color: #00833c;*/
+    margin-top: 25px;
+    float: left;
+    z-index: 55;
+}
+.bannerwz{
+    width: 90px;
+    height: 80px;
+    /*background-color: #00833c;*/
+    float: left;
+    text-align: center;
+    line-height: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.bannerwz1{
+    margin-right: 0;
+}
+
+.bannerwz a{
+    font-size: 20px;
+    color: #ffffff;
+}
+.bannerwz a:hover{
+    color: orangered;
+}
+.y{
+    width: 1197px;
+    height: 130px;
+    /*background-color: #7f7f7c;*/
+    position: absolute;
+    left: 197px;
+    bottom: -39px;
+}
+
+
+/*第一块开始*/
+#dyk{
+    width: 100%;
+    height: 510px;
+    /*background-color: orange;*/
+    overflow: hidden;
+    margin-top: 80px;
+}
+.dykkj{
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+    /*background-color: #aaa19a;*/
+    overflow: hidden;
+
+}
+.dyksz{
+    float: left;
+    margin-left: 15px;
+}
+.dykszs{
+    width: 201px;
+    height: 201px;
+    /*background-color: orangered;*/
+    /*margin-top: 10px;*/
+}
+.dykszx{
+    width: 201px;
+    height: 39px;
+    /*background-color: red;*/
+    color: #f48875;
+    margin-top: 35px;
+    font-size: 36px;
+    line-height: 39px;
+    text-align: center;
+}
+.dyksy{
+    width: 650px;
+    height: 342px;
+    /*background-color: rebeccapurple;*/
+    float: left;
+    margin-left: 115px;
+    font-size: 14px;
+}
+.p1{
+    height: 20px;
+}
+.dykx{
+    width: 1000px;
+    height: 154px;
+    /*background-color: red;*/
+    float: left;
+}
+.p2{
+    font-size: 18px;
+    color: #777;
+}
+.dykx1{
+    width: 970px;
+    height: 120px;
+    /*background-color: #00833c;*/
+    margin-left: 28px;
+    margin-top: 5px;
+}
+.p3{
+    font-size: 14px;
+    color: #333;
+}
+
+
+/*第二块开始*/
+#derk{
+    width: 1903px;
+    height: 370px;
+    background-color: #f7f7f7;
+    overflow: hidden;
+}
+.derkkj{
+    width: 1000px;
+    height: 100%;
+    /*background-color: red;*/
+    margin-left: 365px;
+    overflow: hidden;
+}
+.derks{
+    width: 1000px;
+    height: 49px;
+    /*background-color: orangered;*/
+    margin-top: 65px;
+    text-align: center;
+    line-height: 49px;
+}
+.derks h1{
+    font-size: 45px;
+    color: #666666;
+}
+.derkx{
+    width: 1000px;
+    height:100px;
+    /*background-color: #00833c;*/
+    margin-top: 35px;
+}
+.derktp{
+    width: 202px;
+    height: 92px;
+    background-color: #ffffff;
+    float: left;
+    margin-left: 39px;
+}
+.derktp img{
+    width: 170px;
+    height: 70px;
+    margin-top: 11px;
+    margin-left: 16px;
+}
+
+
+/*最下面开始*/
+#zxm{
+    width: 1903px;
+    height: 58px;
+    background-color: #373737;
+    text-align: center;
+    line-height: 58px;
+}
+.zxmkj{
+    width: 1000px;
+    height: 58px;
+    margin-left: 365px;
+    text-align: center;
+    line-height: 58px;
+}
+.zxmkj h5{
+    font-size: 12px;
+}
